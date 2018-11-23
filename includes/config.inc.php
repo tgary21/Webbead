@@ -18,8 +18,9 @@ $oldalak = array(
 	'versenyek' => array('fajl' => 'versenyek', 'szoveg' => 'Versenyek', 'menu' => 1),
 	'szakkor' => array('fajl' => 'szakkor', 'szoveg' => 'Városi szakkör', 'menu' => 1),
     'elerhetoseg' => array('fajl' => 'elerhetoseg', 'szoveg' => 'Elérhetőség', 'menu' => 1),
-    'regisztracio' => array('fajl' => 'urlap', 'szoveg' => 'Regisztráció', 'menu' => 1),
-    'feldolgoz' => array('fajl' => 'feldolgoz', 'szoveg' => '', 'menu' => 0)
+    'feldolgoz' => array('fajl' => 'feldolgoz', 'szoveg' => '', 'menu' => 0),
+	'kapcsolat' => array('fajl' => 'kapcsolat', 'szoveg' => 'Kapcsolat', 'menu' => 1),
+	'cserepek' => array('fajl' => 'cserepek', 'szoveg' => 'Cserepek', 'menu' => 1),
 );
 
 $hiba_oldal = array ('fajl' => '404', 'szoveg' => 'A keresett oldal nem található!', 'menu' => 0);
